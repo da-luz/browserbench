@@ -1,0 +1,1 @@
+PowerShell -NoExit "env/scripts/activate; code ."
