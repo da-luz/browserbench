@@ -12,12 +12,12 @@ The *``Data Envelopment Analysis (DEA)``* can be used for the item ii. DEA is a 
 
 ## 2. Updates
 
-* **Release 1**
+* **README minor fixes**
 
 ## 3. Backlog
 
-RELEASE 1
----------
+### RELEASE 1
+
 1. [X] Data handling
 2. [X] Exploratory data analysis
 3. [X] Shallow PCA
@@ -25,26 +25,26 @@ RELEASE 1
 5. [X] Shallow PCA docs
 6. [X] Shallow docs
 
-RELEASE 2
----------
+### RELEASE 2
+
 7. [ ] Deep PCA
 8. [ ] PCA-DEA validation
 9. [ ] DEA modeling
 10. [ ] Deep PCA docs
 
-RELEASE 3
----------
+### RELEASE 3
+
 11. [ ] Shallow DEA
 12. [ ] DEA tools construction
 13. [ ] Shallow DEA docs
 
-RELEASE 4
----------
+### RELEASE 4
+
 14. [ ] Deep DEA
 15. [ ] DEA validation
 16. [ ] Deep DEA docs
 
-RELEASE 5
----------
+### RELEASE 5
+
 17. [ ] Deep docs
 18. [ ] Docs editing
